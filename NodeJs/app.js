@@ -109,8 +109,6 @@ app.get("/getAllQuestions",(req,res)=>{
 
 
 app.post('/question-submit', (req, res) => {
-  // const { username, password } = req.body;
-  
 });
 
 app.listen(port,()=>{
